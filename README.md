@@ -1,6 +1,22 @@
 # Advanced Network Security Lab Portfolio
 
+[![Security](https://img.shields.io/badge/Focus-defensive_security-2A9D8F)](#featured-case-studies)
+[![Wireshark](https://img.shields.io/badge/Wireshark-traffic_analysis-1679A7?logo=wireshark&logoColor=white)](case-studies/network-traffic-analysis.md)
+[![Detection](https://img.shields.io/badge/Detection-YARA_·_Snort_·_Sigma-6C5CE7)](case-studies/threat-hunting-and-monitoring.md)
+[![Course](https://img.shields.io/badge/Course-CIT_40600-F0A202)](#about-the-author)
+
 Hands-on defensive-security work from CIT 40600, presented as sanitized case studies spanning vulnerability discovery, system hardening, traffic analysis, threat hunting, and monitoring.
+
+## Security workflow
+
+```mermaid
+flowchart LR
+    A[Reconnaissance] --> B[Vulnerability assessment]
+    B --> C[Traffic and host analysis]
+    C --> D[Detection engineering]
+    D --> E[Hardening and validation]
+    E --> F[Risk-focused reporting]
+```
 
 ## Featured case studies
 
@@ -27,6 +43,6 @@ All case studies are sanitized. Raw captures, credentials, vulnerable virtual ma
 
 This is a documentation portfolio rather than an executable application. Start with the four case studies above and evaluate each one for objective, tools, methodology, outcome, and lessons learned. The absence of raw lab evidence is intentional and can be verified against the repository's restrictive `.gitignore` policy.
 
-## Author
+## About the author
 
-Ahmed Balde
+Built by **Ahmed Balde** as a sanitized record of hands-on defensive-security work. See more cybersecurity, networking, Python, and engineering projects on [GitHub](https://github.com/fetachino).
