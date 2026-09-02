@@ -7,6 +7,12 @@
 
 Hands-on defensive-security work from CIT 40600, presented as sanitized case studies spanning vulnerability discovery, system hardening, traffic analysis, threat hunting, and monitoring.
 
+## Portfolio coverage
+
+![Sanitized overview of the advanced network security labs](docs/images/security-lab-coverage.png)
+
+This visual summarizes the published lab coverage without exposing raw captures, credentials, or vulnerable hosts.
+
 ## Security workflow
 
 ```mermaid
