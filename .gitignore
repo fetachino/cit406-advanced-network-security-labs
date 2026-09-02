@@ -1,0 +1,14 @@
+*.pcap
+*.pcapng
+*.cap
+*.ova
+*.vdi
+*.vmdk
+*.iso
+*.zip
+*.7z
+*.log
+.env
+secrets.*
+evidence/
+captures/
