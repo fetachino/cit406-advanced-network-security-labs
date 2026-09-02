@@ -55,6 +55,14 @@ All case studies are sanitized. Raw captures, credentials, vulnerable virtual ma
 
 This is a documentation portfolio rather than an executable application. Start with the four case studies above and evaluate each one for objective, tools, methodology, outcome, and lessons learned. The absence of raw lab evidence is intentional and can be verified against the repository's restrictive `.gitignore` policy.
 
+## Installation
+
+No installation is required. This repository contains sanitized case studies and workflow visuals; raw captures, credentials, vulnerable hosts, and course evidence are intentionally excluded.
+
+## Installation
+
+No installation is required. This repository contains sanitized case studies and workflow visuals; raw captures, credentials, vulnerable hosts, and course evidence are intentionally excluded.
+
 ## About the author
 
 Built by **Ahmed Balde** as a sanitized record of hands-on defensive-security work. See more cybersecurity, networking, Python, and engineering projects on [GitHub](https://github.com/fetachino).
