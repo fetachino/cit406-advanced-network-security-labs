@@ -23,6 +23,10 @@ Hands-on defensive-security work from CIT 40600, presented as sanitized case stu
 
 All case studies are sanitized. Raw captures, credentials, vulnerable virtual machines, course materials, and third-party data are not included.
 
+## How to review this portfolio
+
+This is a documentation portfolio rather than an executable application. Start with the four case studies above and evaluate each one for objective, tools, methodology, outcome, and lessons learned. The absence of raw lab evidence is intentional and can be verified against the repository's restrictive `.gitignore` policy.
+
 ## Author
 
 Ahmed Balde
