@@ -13,6 +13,12 @@ Hands-on defensive-security work from CIT 40600, presented as sanitized case stu
 
 This visual summarizes the published lab coverage without exposing raw captures, credentials, or vulnerable hosts.
 
+### Layered defense view
+
+![Layered assessment detection monitoring and hardening coverage](docs/images/detection-defense-layers.png)
+
+The layers connect each defensive objective to the tools exercised in the sanitized case studies.
+
 ## Security workflow
 
 ```mermaid
