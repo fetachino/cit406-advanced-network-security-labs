@@ -38,6 +38,9 @@ flowchart LR
 | [Network Traffic Analysis](case-studies/network-traffic-analysis.md) | Wireshark, Tshark | Capture, filtering, and protocol analysis |
 | [Threat Hunting and Monitoring](case-studies/threat-hunting-and-monitoring.md) | YARA, Snort, Security Onion, Sigma | Layered detection logic |
 | [System Hardening](case-studies/system-hardening.md) | Windows policy, Linux, Lynis | Reducing attack surface |
+| [Phishing and BEC Analysis](case-studies/phishing-and-bec-analysis.md) | Header review, reputation analysis | Social-engineering defense |
+| [Malware Analysis](case-studies/malware-analysis.md) | Sandbox analysis, CyberChef-style decoding | Behavioral indicators |
+| [OSINT and Reconnaissance](case-studies/osint-and-reconnaissance.md) | Passive recon, public metadata | Attack-surface awareness |
 
 ## Skills demonstrated
 
